@@ -15,7 +15,23 @@ https://www.udacity.com/course/ai-programming-python-nanodegree--nd089
 - Accurately classify the breed of dog in the images.  
 - Compare performance of CNN architectures: ResNet, AlexNet, and VGG.
 
-## 🛠️**Tools Used:**
+🛠️**Tools Used:**
 - Python  
 - PyTorch  
 - Pre-trained CNN models (ResNet, AlexNet, VGG)  
+
+## 📌 Project 2: Image Classifier with Deep Learning
+
+**Project Overview:**  
+In this project, I developed an image classifier using deep learning with PyTorch. The task involved building and training a neural network on a flower dataset, then creating a command-line application to predict image classes using the trained model.
+
+**🎯Objectives:**  
+- Build and train a deep learning image classifier.  
+- Save and load model checkpoints efficiently.  
+- Develop a command-line interface for training and prediction.  
+- Achieve reliable classification on the flower dataset.
+
+🛠️**Tools Used:**  
+- Python  
+- PyTorch  
+- Torchvision  
