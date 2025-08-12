@@ -9,6 +9,7 @@ https://www.udacity.com/course/ai-programming-python-nanodegree--nd089
 ## 📌Project 1: Pre-trained Image Classifier to Identify Dog Breeds
 
 **Project Overview:**  
+This project involves using a pre-built Python image classifier to verify dog images submitted for a citywide dog show registration. The goal is to apply Python programming skills to use the classifier for distinguishing actual dogs from non-dogs.
 
 **🎯 Objectives:**  
 - Correctly identify which pet images are dogs vs. not dogs.  
