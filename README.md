@@ -1,10 +1,21 @@
 # AI-Programming-with-Python
 
-This page contains my participation in  "AI Programming with Python" provided by Udacity  https://www.udacity.com/course/ai-programming-python-nanodegree--nd089.
-
+This page contains my participation in the **AI Programming with Python Nanodegree** provided by Udacity:  
+https://www.udacity.com/course/ai-programming-python-nanodegree--nd089
 
 - First project: Pre-trained Image Classifier to Identify Dog Breeds
+- Second project: Image Classifier
 
- The goal of this project is to improve my programming skills using Python. In this project, you will use a pre-created image classifier to identify dog breeds.
+## 📌Project 1: Pre-trained Image Classifier to Identify Dog Breeds
 
- The principal objectives of this project are to correctly identify which pet images are of dogs versus which ones are not, as well as to accurately classify the breed of dog for the images. Additionally, I will determine which convolutional neural network (CNN) model architecture - ResNet, AlexNet, or VGG - best achieves.
+**Project Overview:**  
+
+**🎯 Objectives:**  
+- Correctly identify which pet images are dogs vs. not dogs.  
+- Accurately classify the breed of dog in the images.  
+- Compare performance of CNN architectures: ResNet, AlexNet, and VGG.
+
+## 🛠️**Tools Used:**
+- Python  
+- PyTorch  
+- Pre-trained CNN models (ResNet, AlexNet, VGG)  
